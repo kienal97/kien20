@@ -1,0 +1,1 @@
+<a id="btnLogin" data-toggle="modal" data-target="#homeModal">Đăng nhập</a>
